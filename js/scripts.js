@@ -1,7 +1,3 @@
-console.log('redbull');
-console.log('bruh');
-console.log(69);
-
 
 $(document).ready(function() {
 

@@ -1,6 +1,9 @@
 body {
   background-image: url("..//images/background.jpg.jpg");
+  background-position: center center;
   background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .container-fluid {
@@ -56,5 +59,6 @@ h1, h3 {
 
 body {
   font-family: 'Oswald', sans-serif;
-  color: #689EA8;
+  color: #20b7d1;
+  font-size: 25px;
 }
